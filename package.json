@@ -1,0 +1,31 @@
+{
+  "name": "mern_estate",
+  "version": "1.0.0",
+  "description": "MERN stack app with responsivenss",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon Server/index.js",
+    "start": "node Server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashannjeet0206/Real_Estate.git"
+  },
+  "keywords": [
+    "MERN",
+    "stack/Reactjs/Nodejs/Mongodb/JWT"
+  ],
+  "author": "Prashannjeet Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashannjeet0206/Real_Estate/issues"
+  },
+  "homepage": "https://github.com/prashannjeet0206/Real_Estate#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
